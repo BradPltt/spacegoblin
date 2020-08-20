@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ This\ is\ the\ person\ class.\ It\ creates\ a\ person\ when\ it\ is\ asked\ to.\ \r\n\ It\ will\ create\ an\ object\ for\ each\ person,\ and\ provide\ it\ with\ a\ name,\ status,\ and\ payment\ method.\r\n\r\n\ @author\ Callum\ Godfrey\r\n\ @version5\r\n
+comment1.params=
+comment1.target=Person()
+comment2.params=name
+comment2.target=Person(java.lang.String)
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=follower
+comment4.target=void\ setFollower(Person)
+comment5.params=
+comment5.target=Person\ getFollower()
+numComments=6
