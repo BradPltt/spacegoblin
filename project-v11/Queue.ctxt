@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\r\n\ This\ is\ class\ that\ allows\ for\ the\ creation\ of\ a\ queue.\r\n\ People\ can\ be\ added\ and\ removed\ from\ the\ queue\ at\ will.\r\n\r\n\ @author\ Callum\ Godfrey\r\n\ \r\n\ @version\ 18\r\n
+comment1.params=
+comment1.target=Queue()
+comment1.text=\r\n\ This\ function\ sets\ the\ front\ and\ back\ of\ the\ newly\ created\ queue\ to\ null\ (an\ empty\ queue).\r\n
+comment2.params=
+comment2.target=boolean\ emptyQ()
+comment2.text=\r\n\ This\ function\ checks\ whether\ or\ not\ the\ queue\ is\ empty.\r\n
+comment3.params=name
+comment3.target=void\ joinQ(Person)
+comment3.text=\r\n\ This\ function\ adds\ a\ new\ person\ to\ the\ back\ of\ the\ queue.\r\n
+comment4.params=
+comment4.target=Person\ leaveQ()
+comment4.text=\r\n\ This\ function\ removes\ a\ person\ from\ the\ front\ of\ the\ queue.\r\n
+comment5.params=
+comment5.target=void\ printQ()
+comment5.text=\r\n\ This\ function\ prints\ the\ queue\ in\ whatever\ state\ at\ the\ time\ of\ printing.\ \r\n
+numComments=6

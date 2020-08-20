@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ This\ is\ the\ person\ class.\ It\ creates\ a\ person\ when\ it\ is\ asked\ to.\r\n\ It\ will\ create\ an\ object\ for\ each\ person.\r\n\r\n\ @author\ Callum\ Godfrey\r\n\ @version18\r\n
+comment1.params=time\ teacher
+comment1.target=Person(java.lang.String,\ boolean)
+comment1.text=\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ timeOfArrival()
+comment2.text=\r\n\ This\ function\ returns\ the\ time\ at\ which\ the\ person\ joined\ the\ queue.\r\n
+comment3.params=follower
+comment3.target=void\ setFollower(Person)
+comment3.text=\r\n\ This\ function\ creates\ a\ follower\ for\ a\ person\ (a\ person\ lining\ up\ behind).\r\n
+comment4.params=
+comment4.target=Person\ getFollower()
+comment4.text=\r\n\ This\ function\ returns\ the\ follower\ of\ a\ person\ (the\ person\ lining\ up\ behind).\r\n
+comment5.params=
+comment5.target=void\ details()
+comment5.text=\r\n\ This\ function\ prints\ the\ details\ of\ a\ person\ (the\ time\ joined\ and\ the\ person\ behind\ them).\r\n
+numComments=6
