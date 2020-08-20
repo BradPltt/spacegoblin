@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=queueSim
+comment1.params=
+comment1.target=queueSim()
+comment1.text=\r\n\ This\ function\ contains\ the\ main\ menu.\ It\ also\ contains\ all\ of\ the\ main\ menu\ functions,\ and\ the\ priorty\ and\ standard\ queue\ implementations.\r\n\ Depending\ on\ the\ user\ input,\ the\ function\ can\ load,\ quit,\ run\ a\ priority\ queue,\ and\ run\ a\ standard\ queue.\r\n\ \r\n\ The\ function\ loads\ a\ file\ into\ the\ program\ by\ letting\ the\ user\ assign\r\n\ \r\n\ The\ function\ creates\ priority\ queues\ by\ creating\ two\ seperate\ queues,\ one\ for\ teachers\ and\ one\ for\ students.\r\n
+comment2.params=
+comment2.target=void\ priorityQ()
+comment3.params=
+comment3.target=void\ standardQ()
+comment4.params=
+comment4.target=void\ menuOptionHelp()
+comment4.text=\r\n\ This\ function\ acts\ as\ a\ sub\ menu\ for\ the\ help\ menu.\ It\ covers\ the\ MENU\ OPTIONS,\ what\ they\ do,\ and\ how\ to\ use\ them.\r\n\ The\ function\ works\ by\ printing\ the\ information\ that\ the\ user\ has\ requested,\ and\ then\ using\ the\ code\ input.nextLine();\ to\ pause\ the\ while\ loop\ of\ the\ main\ menu\r\n\ so\ that\ it\ doesnt\ instantly\ print\ the\ main\ menu\ again.\r\n
+comment5.params=
+comment5.target=void\ queueHelp()
+comment5.text=\r\n\ This\ function\ acts\ as\ a\ sub\ menu\ for\ the\ help\ menu.\ It\ covers\ the\ QUEUEs,\ and\ what\ they\ do.\r\n\ This\ function\ works\ by\ printing\ the\ information\ that\ the\ user\ has\ requested,\ and\ then\ using\ the\ code\ input.nextLine();\ to\ pause\ the\ while\ loop\ of\ the\ main\ menu\ so\ that\ \r\n\ it\ doesn't\ instantly\ print\ the\ main\ menu\ again.\r\n
+comment6.params=
+comment6.target=void\ saveFile()
+numComments=7
